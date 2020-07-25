@@ -8,14 +8,13 @@
 
 <p align="center">API Node.js com base de dados Postgres, configuração do Sequelize ORM, migrations, relacionamentos e muito mais!</p>
 
----
 
 ## 🎓 Curso: Ambiente de desenvolvimento no Windows 10 com WSL2 e Docker
----
 
 Configure o seu ambiente para desenvolvimento de aplicações no Windows 10, usando WSL versão 2 (Windows Subsystem Linux) com Docker.
 
 Este repositório será usado para a prática com Docker e também para o deploy em produção.
+
 
 ## Para quem é este curso?
 
@@ -36,15 +35,14 @@ Se você trabalha como desenvolvedor de apps no Windows, mas usa o Linux em dual
 
 
 ## 🏆 Usando a API
----
 
-## Pré-requisitos para executar
+### Pré-requisitos para executar
 
 - [GIT](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/pt-BR/docs/install)
 
-## Instalação e execução
+### Instalação e execução
 
 1. Faça um clone do repositório: `git clone https://github.com/jorgealuizio/exemplo-nodejs-postgres.git`.
 
@@ -62,7 +60,6 @@ Se você trabalha como desenvolvedor de apps no Windows, mas usa o Linux em dual
 
 
 ## 🤝 Contato
----
 
 [Blog](https://aluiziodeveloper.com.br)
 
@@ -70,6 +67,5 @@ Se você trabalha como desenvolvedor de apps no Windows, mas usa o Linux em dual
 
 
 ## 📝 Licença
----
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
