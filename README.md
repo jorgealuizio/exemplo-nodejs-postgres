@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Aluizio Dveloper" src="src/assets/logotipo.png" width="140px" />
+  <img alt="Aluizio Dveloper" src="src/assets/logotipo.png" width="200px" />
 </h1>
 
 <h3 align="center">
