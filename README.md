@@ -16,7 +16,7 @@ Configure o seu ambiente para desenvolvimento de aplicações no Windows 10, usa
 Este repositório será usado para a prática com Docker e também para o deploy em produção.
 
 
-## Para quem é este curso?
+### Para quem é este curso?
 
 Este curso se aplica aquelas pessoas que estão iniciando com desenvolvimento de aplicações ou mesmo aqueles que já trabalham na área, porém ainda não conseguiram ajustar o seu ambiente de desenvolvimento no Windows 10.
 
